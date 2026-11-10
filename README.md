@@ -1,4 +1,4 @@
-![Balaji Naidu V — Embedded Systems and Digital Design](./assets/profile-banner.svg)
+![Balaji Naidu V — ECE student learning through projects](./assets/profile-banner.svg)
 
 # Balaji Naidu V
 
