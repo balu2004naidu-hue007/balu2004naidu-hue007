@@ -1,8 +1,8 @@
-![Balaji Naidu V — ECE student learning through projects](./assets/profile-banner.svg)
+![Balaji Naidu V — ECE student learning through projects](./assets/student-banner.svg)
 
 # Balaji Naidu V
 
-**Embedded Systems & Digital Design** · Firmware · RTL · Edge AI
+**ECE undergraduate** · Learning embedded systems through projects
 
 I’m an Electronics and Communication Engineering undergraduate building embedded software, digital systems, and applied prototypes. My projects range from kernel mechanisms and DMA hardware to automotive networks and on-device vision.
 
