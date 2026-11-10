@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Balaji Naidu V — Embedded Systems and Digital Design</title>
-  <desc id="desc">A dark navy technical banner with subtle circuit traces and cyan accents.</desc>
+  <title id="title">Balaji Naidu V — ECE Student</title>
+  <desc id="desc">A student portfolio banner with a dark navy background, subtle circuit traces, and cyan accents.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1220"/>
@@ -31,7 +31,7 @@
   </g>
   <rect x="70" y="61" width="5" height="174" rx="2.5" fill="url(#accent)"/>
   <text x="104" y="127" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="1.5">BALAJI NAIDU V</text>
-  <text x="106" y="170" fill="#c7d7e8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1.3">EMBEDDED SYSTEMS  ·  DIGITAL DESIGN  ·  EDGE AI</text>
-  <text x="106" y="213" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="2">C  /  C++  /  PYTHON  /  SYSTEMVERILOG</text>
+  <text x="106" y="170" fill="#c7d7e8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1.3">ELECTRONICS &amp; COMMUNICATION ENGINEERING STUDENT</text>
+  <text x="106" y="213" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="2">LEARNING  ·  BUILDING  ·  EXPLORING</text>
   <path d="M104 235h320" stroke="#38bdf8" stroke-opacity=".6"/>
 </svg>
