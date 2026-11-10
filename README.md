@@ -1,30 +1,30 @@
-![Balaji Naiduv — Embedded Systems, Automotive Software, and Digital Design](./assets/profile-banner.svg)
+![Balaji Naidu V — Embedded Systems and Digital Design](./assets/profile-banner.svg)
 
-## About
+# Balaji Naidu V
 
-I’m an Electronics and Communication Engineering undergraduate focused on embedded software, automotive systems, digital design, and applied AI. My portfolio brings together firmware, simulation, hardware description, and monitoring projects.
+**Embedded Systems & Digital Design** · Firmware · RTL · Edge AI
 
-[Explore the interactive MICROKERNEL-X demo](https://balu2004naidu-hue007.github.io/MICROKERNEL-X/live.html)
+I’m an Electronics and Communication Engineering undergraduate building embedded software, digital systems, and applied prototypes. My projects range from kernel mechanisms and DMA hardware to automotive networks and on-device vision.
 
-## Featured Projects
+[Try the interactive MICROKERNEL-X lab](https://balu2004naidu-hue007.github.io/MICROKERNEL-X/live.html) · [Browse all repositories](https://github.com/balu2004naidu-hue007?tab=repositories)
 
-| Project | Focus |
-|---|---|
-| [MICROKERNEL-X](https://github.com/balu2004naidu-hue007/MICROKERNEL-X) | C microkernel concepts: scheduling, synchronization, IPC, and fault recovery. Includes the interactive WebAssembly demo linked above. |
-| [AIBARS](https://github.com/balu2004naidu-hue007/AIBARS) | C++ embedded-system simulation with Python analytics and a dashboard for fault diagnosis, risk triage, recovery, and replay. |
-| [AI Industrial Equipment Health Monitoring](https://github.com/balu2004naidu-hue007/AI-Industrial-Equipment-Health-Monitoring) | Python-based equipment health monitoring and predictive maintenance. |
-| [RISC-V DMA Controller](https://github.com/balu2004naidu-hue007/riscv-dma-controller) | SystemVerilog DMA design, bare-metal C firmware, and simulation verification. |
-| [AutoCore ECU Simulation](https://github.com/balu2004naidu-hue007/AutoCore-Automotive-ECU-Simulation) | C++ simulation of multi-ECU communication and diagnostics. |
+## Featured projects
 
-## Technologies
+| Project | Area | What I built |
+|---|---|---|
+| [MICROKERNEL-X](https://github.com/balu2004naidu-hue007/MICROKERNEL-X) · [Live lab](https://balu2004naidu-hue007.github.io/MICROKERNEL-X/live.html) | Embedded software / RTOS | C kernel mechanisms for scheduling, synchronization, IPC, memory pools, and task recovery; includes a Cortex-M port and an interactive WebAssembly lab. Host, ARM/QEMU, dashboard, and deployment checks run in [GitHub Actions](https://github.com/balu2004naidu-hue007/MICROKERNEL-X/actions). |
+| [RISC-V DMA Controller](https://github.com/balu2004naidu-hue007/riscv-dma-controller) | RTL / SoC design | SystemVerilog DMA controller, arbitration and memory model, bare-metal driver, and PicoRV32 integration tests. Verified in simulation; no FPGA performance claim. |
+| [Sugarcane Maturity Detector](https://github.com/balu2004naidu-hue007/Sugarcane-Maturity-Detector) | Edge AI / agriculture | ESP32-S3 image inference with an optional ESP32-CAM capture board, browser interface, and OLED output. The model predicts image classes; it does not directly measure Brix. |
+| [AutoCore ECU Simulation](https://github.com/balu2004naidu-hue007/AutoCore-Automotive-ECU-Simulation) | Automotive software | Four simulated ECUs on a virtual CAN network, diagnostics, fault scenarios, and a local dashboard. This is a software simulation, not a vehicle-connected system. |
+| [AIBARS](https://github.com/balu2004naidu-hue007/AIBARS) | Embedded reliability | Simulated fault detection, diagnosis, bounded recovery, health verification, incident recording, and replay. Its ML classifier is advisory and trained on synthetic data. |
+| [AI Industrial Equipment Health Monitoring](https://github.com/balu2004naidu-hue007/AI-Industrial-Equipment-Health-Monitoring) | Industrial monitoring | Laptop-runnable sensor simulator, dashboard, serial-input path, and Python model-training workflow. Model results use synthetic data and are not validated on industrial machines. |
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-263238?style=flat-square)
+## Technical areas
 
-**Areas:** Embedded systems · Microkernel concepts · Automotive systems · Digital design · Fault detection and recovery
+**Languages:** C · C++ · Python · SystemVerilog  
+**Tools and platforms:** ESP-IDF · CMake · ARM/QEMU · GitHub Actions · HTML/CSS/JavaScript
 
----
+## Validation and scope
 
-Each project repository includes its own implementation details, setup instructions, and validation notes.
+Several projects include automated tests and documented simulation results. These validate the software scenarios described in each repository; they do not imply certification, production deployment, or physical-hardware validation. See each project README for its setup, test commands, evidence, and limitations.
+
