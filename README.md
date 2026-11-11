@@ -8,7 +8,7 @@ I build and validate laptop-based and embedded-software projects across kernel m
 
 **Open to:** Embedded Systems / Firmware internships, Graduate Engineer Trainee (GET) opportunities, and entry-level ECE roles.
 
-[LinkedIn](https://www.linkedin.com/in/balaji-naidu-2145bb219) · [Email](mailto:balu2004naidu@gmail.com) · [Try the interactive MICROKERNEL-X lab](https://balu2004naidu-hue007.github.io/MICROKERNEL-X/live.html) · [Browse all repositories](https://github.com/balu2004naidu-hue007?tab=repositories)
+[Email](mailto:balu2004naidu@gmail.com) · [Try the interactive MICROKERNEL-X lab](https://balu2004naidu-hue007.github.io/MICROKERNEL-X/live.html) · [Browse all repositories](https://github.com/balu2004naidu-hue007?tab=repositories)
 
 ## Featured projects
 
